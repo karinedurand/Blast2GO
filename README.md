@@ -1,0 +1,2 @@
+# Blast2GO
+Readme
